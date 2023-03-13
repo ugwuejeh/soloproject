@@ -1,0 +1,2 @@
+# soloproject
+pass out project
